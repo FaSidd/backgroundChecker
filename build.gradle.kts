@@ -12,9 +12,6 @@ dependencies {
   testCompile("org.junit.jupiter:junit-jupiter-api:5.2.0")
 	testRuntime("org.junit.jupiter:junit-jupiter-engine:5.2.0")
 	testRuntime("org.junit.platform:junit-platform-console:1.2.0")
-  
-  implementation("org.mockito:mockito-core:2.2.7")
-  implementation("org.json:json:20190722")
 }
  
 sourceSets {
