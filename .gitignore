@@ -1,3 +1,6 @@
+backgroundCheck/out/*
+backgroundCheck/.idea/*
+
 # Compiled class file
 *.class
 
