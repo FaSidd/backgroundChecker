@@ -1,0 +1,13 @@
+x canary test
+x candidate has good credit
+x candidate has bad credit with reason "poor credit score"
+x candidate has clean criminal history
+x candidate has unclean criminal history with reason "felony found in criminal history"
+x candidate has citizenship
+x candidate has no citizenship with reason "not a citizen"
+x candidate has employment history
+x candidate has no employment history with reason "no employment history found"
+x background check with multiple criteria no failures
+x background check with multiple criteria one failure
+x background check with multiple criteria two failures
+x background check with multiple criteria three failures
